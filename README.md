@@ -1,5 +1,3 @@
-# BioSearch
-
 🔎 Introducing BioSearch: A Search Engine for Doctors
 
 Last year I worked on BioSearch, a solo project for one of my computer science classes CS-463, in which I had to build a search engine to help doctors efficiently retrieve clinical cases from their own collections.
